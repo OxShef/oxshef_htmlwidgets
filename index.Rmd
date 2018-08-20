@@ -11,7 +11,7 @@ This is a template RMarkdown website for the OxShef project, please consider usi
 
 Current websites in OxShef that use this template include:
 
-- [OxShef Charts](https://oxshef.github.io/oxshef_charts/): A guide to different visualisation options for visualising research data
+- [OxShef Charts](https://charts.oxshef.io): A guide to different visualisation options for visualising research data
 
 There is a more thorough overview of the features of this website template (and how to use it) in the [github readme](https://github.com/OxShef/oxshef_rmd_template). 
 
